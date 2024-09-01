@@ -12,7 +12,7 @@ Install:
 * [API reference](https://playwright.dev/docs/api/class-playwright/)
 * [Changelog](https://github.com/microsoft/playwright/releases)
 
-Tools Codegen:
+
 Codegen Record browser code automation:
 1. npx playwright codegen --help
 2. npx playwright codegen [URL] -o [Filename]
